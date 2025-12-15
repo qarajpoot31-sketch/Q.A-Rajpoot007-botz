@@ -1,19 +1,19 @@
 {
-  "name": "SHABAN-MD",
+  "name": "Q.A-Rajpoot007",
   "version": "6.0.0",
-  "description": "WHATSAPP BOT CREATED BY MR SHABAN⁴⁵",
+  "description": "WHATSAPP BOT CREATED BY Q.A-Rajpoot007⁴⁵",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Q.A-Rajpoot007",
+    "stop": "pm2 stop Q.A-Rajpoot007",
+    "restart": "pm2 restart Q.A-Rajpoot007"
   },
   "keywords": [
-    "shaban-md",
+    "Q.A-Rajpoot007",
     "whatsapp-bot",
     "baileys-bot",
     "multi-device-bot",
-    "shaban",
+    "Q.A-Rajpoot007",
     "shaban-md-bot",
     "bot-whatsapp",
     "whatsapp-md",
