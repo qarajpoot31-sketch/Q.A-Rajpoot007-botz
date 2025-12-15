@@ -1,8 +1,8 @@
-![WELLCOME](Shaban/wellcome.svg)
+![WELLCOME](Q.A-Rajpoot007/wellcome.svg)
   
 ______
 
-[![Shaban](https://raw.githubusercontent.com/MRSHABAN45/SHABAN-MD/main/Shaban/mr.svg)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
+[![Q.A-Rajpoot007](https://github.com/rqasahb007/Q.A-Rajpoot007/blob/main/IMG-20251214-WA0058.jpg)](https://whatsapp.com/channel/0029VatAmjy1noyziRyDLD41)
 ___ 
 
 <p align="center">
@@ -88,7 +88,7 @@ ___
 
 -------------
 
-**_✠ FREE DEPLOYMENT OF SHABAN MD GITHUB WORKFLOW CODE NEW ADD ERROR FIXED ✠_**
+**_✠ FREE DEPLOYMENT OF Q.A-Rajpoot007 GITHUB WORKFLOW CODE NEW ADD ERROR FIXED ✠_**
 
 ```
 
